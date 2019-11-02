@@ -2,6 +2,7 @@
 Projeto da disciplina de Java para Web - Pós Unipe
 
 #Requisitos:
+
 1 - Desenvolver api, com documentação Swagger. OK
 
 2 - Implementar pelo menos 4 Cruds. (Curso, User, Avaliação e Disciplina)
